@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Pallab Roy Tushar.
 #### Frontend Developer
-![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 Skills:  HTML / CSS/  REACT / JS / BOOTSTRAP 
