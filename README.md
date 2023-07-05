@@ -9,7 +9,9 @@
   <li>🌱 I’m currently learning Web Development.</li>
 </ul>
 #### A little more about me
-```javascript
+```javascript 
+
+
 const badri = {
   pronouns: "He" | "Him",
   code: ["Javascript", "HTML", "CSS"],
