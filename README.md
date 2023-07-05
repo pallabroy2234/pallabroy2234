@@ -8,7 +8,18 @@
   <li>❤️ I love Creating websites and Programming in javaScript.</li>
   <li>🌱 I’m currently learning Web Development.</li>
 </ul>
-
+#### A little more about me
+```javascript
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
 
 
 
